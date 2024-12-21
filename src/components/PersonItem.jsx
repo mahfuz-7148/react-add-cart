@@ -19,5 +19,4 @@ const PersonItem = ({personnItem}) => {
     </div>
   )
 }
-
 export default PersonItem
